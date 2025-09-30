@@ -36,4 +36,4 @@ While examining a 70-year span, the slope of the trendline varies significantly,
 [slideshows link](https://nisanman.github.io/NegevRainAnnual/#/)
 This is a data presentation project based on rainfall analysis using Python and Jupyter Notebook.
 
-## 📈 [Tableau Visualization Link](https://public.tableau.com/views/RainTrendAnalysisInSouthernIsrael/Story1) 
+## 📈 [Tableau Visualization Link](https://public.tableau.com/views/RainTrendAnalysisInSouthernIsrael/Story1)
